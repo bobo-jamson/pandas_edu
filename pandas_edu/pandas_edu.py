@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-import pdedu_libs as helpers
+from . import pdedu_libs as helpers
 import typing
 import functools
 
