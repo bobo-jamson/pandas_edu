@@ -30,7 +30,7 @@ readers of code that the methods are not from the standard pandas namespace.
 
 ## Documentation
 
-In lui of a real documentation page, below are examples of the API. 
+In lieu of a real documentation page, below are examples of the API. 
 
 ### `edu.concatenate_columns()`
 
